@@ -1,0 +1,22 @@
+{
+	"string": "string",
+	"array-of-objects": [
+		{
+			"number": 3.14,
+			"valid": false
+		},
+		{
+			"number": 2e-12,
+			"valid": true
+		}
+	],
+	"null-object": null,
+	"numbers": {
+		"values": [
+			1, 2, 3, 4, 5
+		],
+		"names": [
+			"one", "two", "three", "four", "five"
+		]
+	}
+}
